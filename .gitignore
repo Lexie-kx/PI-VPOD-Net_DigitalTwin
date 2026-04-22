@@ -1,0 +1,4 @@
+data/raw/
+data/processed/*.pth
+data/processed/*.pt
+__pycache__/
